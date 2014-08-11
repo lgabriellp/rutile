@@ -1,4 +1,4 @@
-cmake-seed
-==========
+Rutile
+======
 
-This is a C/C++ project seed with CMake build and CppUTest testing framework
+Networking library to support Unix Sockets inter process communication.
